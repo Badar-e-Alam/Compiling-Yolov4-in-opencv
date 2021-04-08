@@ -1,0 +1,4 @@
+- This project will help you in many ways , you can detect 80 objects defined in coco dataset in you favourite OPENCV ,bypassing hussle of darknet and pytorch setup etc.
+- Open .py file and adjust the coco.names path
+-  [download pretrained weights  form] (https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view)
+-  set Paths and Enjoy 🎆🎈🎉🎉
